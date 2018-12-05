@@ -1,0 +1,7 @@
+C:\Users\liano\source\repos\CS-TSP\CS-TSP\bin\Debug\CS-TSP.exe.config
+C:\Users\liano\source\repos\CS-TSP\CS-TSP\bin\Debug\CS-TSP.exe
+C:\Users\liano\source\repos\CS-TSP\CS-TSP\bin\Debug\CS-TSP.pdb
+C:\Users\liano\source\repos\CS-TSP\CS-TSP\obj\Debug\CS-TSP.csprojResolveAssemblyReference.cache
+C:\Users\liano\source\repos\CS-TSP\CS-TSP\obj\Debug\CS-TSP.csproj.CoreCompileInputs.cache
+C:\Users\liano\source\repos\CS-TSP\CS-TSP\obj\Debug\CS-TSP.exe
+C:\Users\liano\source\repos\CS-TSP\CS-TSP\obj\Debug\CS-TSP.pdb
